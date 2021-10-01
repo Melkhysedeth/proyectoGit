@@ -34,3 +34,7 @@ body {
 #container h1{
     font-size: 20px;
 }
+
+#post #imagen{
+    box-shadow: 0px 2px 20px 00px rgba(0, 0, 0, 0.5);
+}
